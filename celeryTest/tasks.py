@@ -6,7 +6,6 @@ def test_periodic_task():
     return "Success"
 
 
-
 @shared_task
 def debug_task():
     print("--- WINDOWS WORKER SUCCESS ---")

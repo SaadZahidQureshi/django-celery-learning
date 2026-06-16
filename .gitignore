@@ -5,7 +5,6 @@ __pycache__/
 *.pyd
 
 # Environment & Secrets
-.env
 .venv/
 venv/
 env/
@@ -24,5 +23,10 @@ staticfiles/
 *.log
 
 # IDEs (optional but recommended)
-.vscode/
 .idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
